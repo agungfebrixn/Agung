@@ -13,17 +13,7 @@ Repository ini digunakan sebagai:
 3. Commit perubahanmu.  
 4. Ajukan **pull request** ke repository utama.  
 
-Semua pull request akan ditinjau sebelum digabungkan.  
-
-## 👥 Daftar Kontributor  
-Berikut adalah daftar kontributor proyek ini:  
-
-- **Agung** (Pemilik repository)  
-- **Siti Rachmania Putri**  
-- **Virzan Pasa Nugraha**  
-- **Sigit Pangestu**  
-
-*(Akan diperbarui jika ada kontributor baru)*  
+*Semua pull request akan ditinjau sebelum digabungkan.*  
 
 ## 🛠 Teknologi yang Digunakan  
 - **Git** untuk pengelolaan versi.  
