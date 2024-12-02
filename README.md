@@ -36,5 +36,7 @@ Berikut adalah daftar kontributor proyek ini:
 - **Git** untuk pengelolaan versi.  
 - **GitHub** untuk kolaborasi tim.  
 
-## 📜 Lisensi  
-Repository ini berada di bawah lisensi [MIT License](LICENSE).  
+## 📜 Lisensi
+Repository ini berada di bawah lisensi [MIT License](https://github.com/febrixnagung/Agung/blob/main/LICENSE).  
+Silakan baca file LICENSE untuk detail lebih lanjut.
+
