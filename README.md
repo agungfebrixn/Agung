@@ -31,12 +31,6 @@ Berikut adalah daftar kontributor proyek ini:
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=febrixnagung&label=Profile%20Views&color=0e75b6&style=flat)  
-![Forks](https://img.shields.io/github/forks/febrixnagung/Agung?style=social)
-![Contributors](https://img.shields.io/github/contributors/febrixnagung/Agung)
-![License](https://img.shields.io/github/license/febrixnagung/Agung)
-![Last Commit](https://img.shields.io/github/last-commit/febrixnagung/Agung)
-
 ## Contributors ✨
 
 Thanks to these wonderful contributors:
@@ -76,6 +70,11 @@ Thanks to these wonderful contributors:
   </tr>
 </table>
 
+![Profile Views](https://komarev.com/ghpvc/?username=febrixnagung&label=Profile%20Views&color=0e75b6&style=flat)  
+![Forks](https://img.shields.io/github/forks/febrixnagung/Agung?style=social)
+![Contributors](https://img.shields.io/github/contributors/febrixnagung/Agung)
+![License](https://img.shields.io/github/license/febrixnagung/Agung)
+![Last Commit](https://img.shields.io/github/last-commit/febrixnagung/Agung)
 
 ## 📜 Lisensi
 Repository ini berada di bawah lisensi [MIT License](https://github.com/febrixnagung/Agung/blob/main/LICENSE).  
