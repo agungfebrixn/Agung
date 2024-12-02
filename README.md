@@ -29,31 +29,31 @@ Thanks to these wonderful contributors:
   <tr>
     <td align="center">
       <a href="https://github.com/febrixnagung">
-        <img src="https://avatars.githubusercontent.com/febrixnagung" style="width:100px; height:100px; object-fit:cover; border-radius:8px;" alt="febrixnagung"/><br />
+        <img src="https://avatars.githubusercontent.com/febrixnagung" style="width:75px; height:75px; object-fit:cover; border-radius:6px;" alt="febrixnagung"/><br />
         <sub><b>febrixnagung</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/agungfebrixn">
-        <img src="https://avatars.githubusercontent.com/agungfebrixn" style="width:100px; height:100px; object-fit:cover; border-radius:8px;" alt="agungfebrixn"/><br />
+        <img src="https://avatars.githubusercontent.com/agungfebrixn" style="width:75px; height:75px; object-fit:cover; border-radius:6px;" alt="agungfebrixn"/><br />
         <sub><b>agungfebrixn</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/SitiRachmaniaPutri">
-        <img src="https://avatars.githubusercontent.com/SitiRachmaniaPutri" style="width:100px; height:100px; object-fit:cover; border-radius:8px;" alt="SitiRachmaniaPutri"/><br />
+        <img src="https://avatars.githubusercontent.com/SitiRachmaniaPutri" style="width:75px; height:75px; object-fit:cover; border-radius:6px;" alt="SitiRachmaniaPutri"/><br />
         <sub><b>SitiRachmaniaPutri</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/VirzanPasaNugraha">
-        <img src="https://avatars.githubusercontent.com/VirzanPasaNugraha" style="width:100px; height:100px; object-fit:cover; border-radius:8px;" alt="VirzanPasaNugraha"/><br />
+        <img src="https://avatars.githubusercontent.com/VirzanPasaNugraha" style="width:75px; height:75px; object-fit:cover; border-radius:6px;" alt="VirzanPasaNugraha"/><br />
         <sub><b>VirzanPasaNugraha</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Sigitgit7">
-        <img src="https://avatars.githubusercontent.com/Sigitgit7" style="width:100px; height:100px; object-fit:cover; border-radius:8px;" alt="Sigitgit7"/><br />
+        <img src="https://avatars.githubusercontent.com/Sigitgit7" style="width:75px; height:75px; object-fit:cover; border-radius:6px;" alt="Sigitgit7"/><br />
         <sub><b>Sigitgit7</b></sub>
       </a>
     </td>
