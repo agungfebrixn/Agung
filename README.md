@@ -22,17 +22,12 @@ Berikut adalah daftar kontributor proyek ini:
 - **Siti Rachmania Putri**  
 - **Virzan Pasa Nugraha**  
 - **Sigit Pangestu**  
-- **Reksa Aji Winangun**  
 
 *(Akan diperbarui jika ada kontributor baru)*  
 
 ## 🛠 Teknologi yang Digunakan  
 - **Git** untuk pengelolaan versi.  
 - **GitHub** untuk kolaborasi tim.  
-
-## 📜 Lisensi
-Repository ini berada di bawah lisensi [MIT License](https://github.com/febrixnagung/Agung/blob/main/LICENSE).  
-Silakan baca file LICENSE untuk detail lebih lanjut.
 
 ---
 
@@ -46,8 +41,12 @@ Silakan baca file LICENSE untuk detail lebih lanjut.
 
 Thanks to these wonderful contributors:
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- Add contributors here -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-<a href="https://github.com/USERNAME"><img src="https://avatars.githubusercontent.com/USERNAME" width="100px;" alt=""/><br /><sub><b>USERNAME</b></sub></a>
+<a href="https://github.com/febrixnagung"><img src="https://avatars.githubusercontent.com/febrixnagung" width="100px;" alt="febrixnagung"/><br /><sub><b>febrixnagung</b></sub></a>
+<a href="https://github.com/agungfebrixn"><img src="https://avatars.githubusercontent.com/agungfebrixn" width="100px;" alt="agungfebrixn"/><br /><sub><b>agungfebrixn</b></sub></a>
+<a href="https://github.com/SitiRachmaniaPutri"><img src="https://avatars.githubusercontent.com/SitiRachmaniaPutri" width="100px;" alt="SitiRachmaniaPutri"/><br /><sub><b>SitiRachmaniaPutri</b></sub></a>
+<a href="https://github.com/VirzanPasaNugraha"><img src="https://avatars.githubusercontent.com/VirzanPasaNugraha" width="100px;" alt="VirzanPasaNugraha"/><br /><sub><b>VirzanPasaNugraha</b></sub></a>
+<a href="https://github.com/Sigitgit7"><img src="https://avatars.githubusercontent.com/Sigitgit7" width="100px;" alt="Sigitgit7"/><br /><sub><b>Sigitgit7</b></sub></a>
 
+## 📜 Lisensi
+Repository ini berada di bawah lisensi [MIT License](https://github.com/febrixnagung/Agung/blob/main/LICENSE).  
+Silakan baca file LICENSE untuk detail lebih lanjut.
