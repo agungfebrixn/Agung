@@ -1,5 +1,40 @@
-# Repository Latihan
+# Project Repository - Informatika Kelas IF5A 🚀  
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=agung-repo&label=Profile%20Views&color=0e75b6&style=flat)  
+![Forks](https://img.shields.io/github/forks/agung-repo/informatika-if5a?style=flat-square)  
+![Contributors](https://img.shields.io/github/contributors/agung-repo/informatika-if5a?color=blue&style=flat-square)  
+![License](https://img.shields.io/github/license/agung-repo/informatika-if5a?style=flat-square)  
+![Last Commit](https://img.shields.io/github/last-commit/agung-repo/informatika-if5a?color=red&style=flat-square)  
 
-✅
+## 📌 Deskripsi Proyek  
+Repository ini dibuat sebagai media latihan kolaborasi menggunakan Git dan GitHub.  
+
+Repository ini digunakan sebagai:  
+- Latihan kolaborasi tim dengan Git dan GitHub.  
+- Simulasi kontribusi menggunakan **fork**, **branch**, dan **pull request**.  
+
+## 💡 Cara Berkontribusi  
+1. **Fork** repository ini.  
+2. Buat **branch** baru untuk perubahanmu.  
+3. Commit perubahanmu.  
+4. Ajukan **pull request** ke repository utama.  
+
+Semua pull request akan ditinjau sebelum digabungkan.  
+
+## 👥 Daftar Kontributor  
+Berikut adalah daftar kontributor proyek ini:  
+
+- **Agung** (Pemilik repository)  
+- **Siti Rachmania Putri**  
+- **Virzan Pasa Nugraha**  
+- **Sigit Pangestu**  
+- **Reksa Aji Winangun**  
+
+*(Akan diperbarui jika ada kontributor baru)*  
+
+## 🛠 Teknologi yang Digunakan  
+- **Git** untuk pengelolaan versi.  
+- **GitHub** untuk kolaborasi tim.  
+
+## 📜 Lisensi  
+Repository ini berada di bawah lisensi [MIT License](LICENSE).  
