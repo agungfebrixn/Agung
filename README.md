@@ -1,9 +1,7 @@
 # Project Repository - Informatika Kelas IF5A 🚀  
 
 ## 📌 Deskripsi Proyek  
-Repository ini dibuat sebagai media latihan kolaborasi menggunakan Git dan GitHub.  
-
-Repository ini digunakan sebagai:  
+Repository dibuat sebagai media latihan dan digunakan sebagai:  
 - Latihan kolaborasi tim dengan Git dan GitHub.  
 - Simulasi kontribusi menggunakan **fork**, **branch**, dan **pull request**.  
 
@@ -21,7 +19,7 @@ Repository ini digunakan sebagai:
 
 ---
 
-## Contributors ✨
+## ✨ Contributors 
 
 Thanks to these wonderful contributors:
 
