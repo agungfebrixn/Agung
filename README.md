@@ -34,7 +34,7 @@ Berikut adalah daftar kontributor proyek ini:
 Repository ini berada di bawah lisensi [MIT License](https://github.com/febrixnagung/Agung/blob/main/LICENSE).  
 Silakan baca file LICENSE untuk detail lebih lanjut.
 
-# Agung
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=febrixnagung&label=Profile%20Views&color=0e75b6&style=flat)  
 ![Forks](https://img.shields.io/github/forks/febrixnagung/Agung?style=social)
@@ -49,3 +49,5 @@ Thanks to these wonderful contributors:
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- Add contributors here -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+<a href="https://github.com/USERNAME"><img src="https://avatars.githubusercontent.com/USERNAME" width="100px;" alt=""/><br /><sub><b>USERNAME</b></sub></a>
+
