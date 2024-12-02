@@ -1,10 +1,10 @@
 # Project Repository - Informatika Kelas IF5A 🚀  
 
-![Profile Views](https://komarev.com/ghpvc/?username=agung-repo&label=Profile%20Views&color=0e75b6&style=flat)  
-![Forks](https://img.shields.io/github/forks/agung-repo/informatika-if5a?style=flat-square)  
-![Contributors](https://img.shields.io/github/contributors/agung-repo/informatika-if5a?color=blue&style=flat-square)  
-![License](https://img.shields.io/github/license/agung-repo/informatika-if5a?style=flat-square)  
-![Last Commit](https://img.shields.io/github/last-commit/agung-repo/informatika-if5a?color=red&style=flat-square)  
+![Profile Views](https://komarev.com/ghpvc/?username=febrixnagung&label=Profile%20Views&color=0e75b6&style=flat)  
+![Forks](https://img.shields.io/github/forks/febrixnagung/Agung?style=flat-square)  
+![Contributors](https://img.shields.io/github/contributors/febrixnagung/Agung?color=blue&style=flat-square)  
+![License](https://img.shields.io/github/license/febrixnagung/Agung?style=flat-square)  
+![Last Commit](https://img.shields.io/github/last-commit/febrixnagung/Agung?color=red&style=flat-square)  
 
 ## 📌 Deskripsi Proyek  
 Repository ini dibuat sebagai media latihan kolaborasi menggunakan Git dan GitHub.  
