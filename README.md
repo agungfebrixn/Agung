@@ -69,3 +69,11 @@ Thanks to these wonderful contributors:
 
 ## 📜 Lisensi
 Repository ini berada di bawah lisensi [MIT License](https://github.com/febrixnagung/Agung/blob/main/LICENSE).  
+
+## 🎵 Lagu Tema Proyek
+
+<audio controls>
+  <source src="src/UP%20(KARINA%20Solo).mp3" type="audio/mpeg">
+  Browser Anda tidak mendukung elemen audio.
+</audio>
+
