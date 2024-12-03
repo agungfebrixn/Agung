@@ -72,8 +72,6 @@ Repository ini berada di bawah lisensi [MIT License](https://github.com/febrixna
 
 ## 🎵 Lagu Tema Proyek
 
-<audio controls>
-  <source src="src/UP%20(KARINA%20Solo).mp3" type="audio/mpeg">
-  Browser Anda tidak mendukung elemen audio.
-</audio>
+Nikmati lagu berikut untuk menemani pengembangan proyek ini:
 
+[🎧 Dengarkan Lagu](https://drive.google.com/uc?export=download&id=1_6aKEysxAMDm3v-3bAbeMmOhNvCqpNxg)
