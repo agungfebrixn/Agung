@@ -70,8 +70,10 @@ Thanks to these wonderful contributors:
 ## 📜 Lisensi
 Repository ini berada di bawah lisensi [MIT License](https://github.com/febrixnagung/Agung/blob/main/LICENSE).  
 
+---
+
 ## 🎵 Lagu Tema Proyek
 
-Nikmati lagu berikut untuk menemani pengembangan proyek ini:
+Nikmati lagu-lagu berikut untuk menemani kalian dalam mengerjakan proyek/tugas:
 
-[🎧 Dengarkan Lagu](https://drive.google.com/uc?export=download&id=1_6aKEysxAMDm3v-3bAbeMmOhNvCqpNxg)
+[🎧 Akses Folder Lagu](https://drive.google.com/drive/folders/1cciSyuqkJrNdtIZPCxB7NzbWyypwSvrq)
